@@ -13,3 +13,23 @@
 
  Neste link contém o Executavel para testar o jogo
  https://www.dropbox.com/scl/fi/8qy3ged9ojhx69o33k8x0/SideScrollExecutavel.rar?rlkey=ui68tv2fo64zprkttkc3ysvpx&dl=0
+
+
+Example of a side-scrolling game in Unreal C++
+
+Utilizes basic side-scrolling game concepts in Unreal C++. All 3D models and animations are public and available on Adobe's Mixamo website, only the projectiles were modeled by me. The project focuses exclusively on programming and applying gameplay concepts. It can be a learning guide for those interested in the basics of creating a game in Unreal C++.
+
+Use the mouse and keyboard to play, where the character will aim the weapon based on the mouse pointer's location. The space key makes the character jump, while the left mouse button shoots. Holding the left mouse button keeps the character shooting. There are 4 characters, and in the selection menu, each of them is related to a programming language.
+
+In this link, you can find the executable to test the game:
+ https://www.dropbox.com/scl/fi/8qy3ged9ojhx69o33k8x0/SideScrollExecutavel.rar?rlkey=ui68tv2fo64zprkttkc3ysvpx&dl=0
+
+
+Unreal C++での横スクロールゲームの例
+
+Unreal C++で横スクロールの基本的なゲームコンセプトを使用しています。3DモデルとアニメーションはすべてAdobeのMixamoウェブサイトで公開されており、弾丸だけが私がモデリングしました。このプロジェクトはプログラミングとゲームプレイの概念の適用に専念しています。Unreal C++でゲームを作成する際の基本に興味を持っている方には学習ガイドとなるでしょう。
+
+マウスとキーボードを使用してプレイし、キャラクターはマウスポインターの位置に基づいて武器を向けます。スペースキーでキャラクターがジャンプし、左マウスボタンで射撃します。左マウスボタンを押し続けると、キャラクターが射撃し続けます。4つのキャラクターがあり、選択メニューではそれぞれがプログラミング言語に関連しています。
+
+このリンクにはゲームをテストするための実行可能ファイルが含まれています：
+ https://www.dropbox.com/scl/fi/8qy3ged9ojhx69o33k8x0/SideScrollExecutavel.rar?rlkey=ui68tv2fo64zprkttkc3ysvpx&dl=0
