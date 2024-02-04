@@ -8,7 +8,6 @@
 #include "Camera/CameraComponent.h"
 #include "GameFramework/Character.h"
 #include "GameFramework/SpringArmComponent.h"
-#include "Components/StaticMeshComponent.h"
 #include "DevLopSideScroll/Personagens/Enums/Lista_Enums.h"
 #include "Interfaces/DanoProjetilInterface.h"
 #include "Jogador_Base.generated.h"
